@@ -1,6 +1,7 @@
 # OpenCourt
+[![Python 2.7](https://img.shields.io/badge/python-2.7-blue.svg)](https://www.python.org/downloads/release/python-270/)
 
-##Intro
+## Intro
 This is a repo for a python scraper from Justia.com to build a corpus of U.S. Supreme Court Cases and then build a network graph from the citations. The motivation for this project was a recent Administrative Law School class and my discovery that there are no publically available machine readable versions of the Supreme Court Cases.
 
 The output of this scraper can be used to generate a network graph visualization in D3 or using [Gephi](http://gephi.github.io/) visualization. The results, pending citation building refinements, will soon be posted!
